@@ -264,7 +264,7 @@ This project is created for the Janakiyamma Foundation. All rights reserved.
 
 - Built with love in honor of Janakiyamma
 - Dedicated to empowering AI/ML education globally
-- Starting with 8-10 family kids in India
+- Starting with a few kids and adults in India
 
 ---
 
