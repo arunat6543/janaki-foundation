@@ -32,3 +32,5 @@ This folder contains all the images for the Janakiyamma Foundation website.
 3. Commit and push to GitHub
 
 Example: `<img src="images/janakiyamma.jpg" alt="Janakiyamma">`
+
+
