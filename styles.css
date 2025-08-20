@@ -437,6 +437,10 @@ body {
     display: none;
 }
 
+.tribute-text-mobile {
+    display: none;
+}
+
 .tribute-photo-desktop {
     display: block;
 }
@@ -446,12 +450,16 @@ body {
         display: block;
     }
     
+    .tribute-text-mobile {
+        display: block;
+    }
+    
     .tribute-photo-desktop {
         display: none;
     }
     
     .tribute-desktop {
-        display: block;
+        display: none;
     }
 }
 
