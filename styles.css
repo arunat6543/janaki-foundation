@@ -432,36 +432,7 @@ body {
     display: block;
 }
 
-/* Tribute Photo Responsive Rules */
-.tribute-photo-mobile {
-    display: none;
-}
-
-.tribute-text-mobile {
-    display: none;
-}
-
-.tribute-photo-desktop {
-    display: block;
-}
-
-@media (max-width: 768px) {
-    .tribute-photo-mobile {
-        display: block;
-    }
-    
-    .tribute-text-mobile {
-        display: block;
-    }
-    
-    .tribute-photo-desktop {
-        display: none;
-    }
-    
-    .tribute-desktop {
-        display: none;
-    }
-}
+/* Tribute section now uses the same layout for all devices */
 
 /* Responsive Design */
 @media (max-width: 768px) {
