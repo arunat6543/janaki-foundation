@@ -432,6 +432,29 @@ body {
     display: block;
 }
 
+/* Tribute Photo Responsive Rules */
+.tribute-photo-mobile {
+    display: none;
+}
+
+.tribute-photo-desktop {
+    display: block;
+}
+
+@media (max-width: 768px) {
+    .tribute-photo-mobile {
+        display: block;
+    }
+    
+    .tribute-photo-desktop {
+        display: none;
+    }
+    
+    .tribute-desktop {
+        display: block;
+    }
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     .nav-menu {
